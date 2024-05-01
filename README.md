@@ -1,7 +1,7 @@
 # mustard-themes
 
 CURRENT UPDATE: 01-05-24
-- Themes updated as off this date.
+- Themes updated as off this date, downloaded from Discord.
 - A couple of fixes TO BE MADE to some themes with the old hard pixel font.
   
 Hello all! I'm creating this repository to
