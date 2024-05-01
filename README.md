@@ -1,9 +1,10 @@
 # mustard-themes
 
 CURRENT UPDATE: 01-05-24
-- Themes updated as off this date, downloaded from Discord.
+- Themes updated as of this date, downloaded from Discord.
 - A couple of fixes TO BE MADE to some themes with the old hard pixel font.
 - Previews to be uploaded into a single folder.
+- Themes posted in the themes channel are yet to be added.
   
 Hello all! I'm creating this repository to
 collate all of the themes available for muOS.
