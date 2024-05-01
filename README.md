@@ -1,5 +1,9 @@
 # mustard-themes
 
+CURRENT UPDATE: 01-05-24
+- Themes updated as off this date.
+- A couple of fixes TO BE MADE to some themes with the old hard pixel font.
+  
 Hello all! I'm creating this repository to
 collate all of the themes available for muOS.
 This is a personal collection and currently
